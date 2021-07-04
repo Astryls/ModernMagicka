@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "c76198ac-ad1f-4128-9abc-e06c957e4101",
+    "name": "Astryls",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "342b914d-2540-49fb-9596-c64edd98e7ea",
+    "name": "dragonshardz",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c2bd45f3-0d20-428b-96ce-e1415b86a322",
+    "name": "_Eox",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
