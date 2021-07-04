@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Astryls",
+      "uniqueId": "c76198ac-ad1f-4128-9abc-e06c957e4101"
+    },
+    "time": 1625437116589,
+    "type": "Sampler",
+    "data": {
+      "type": "url",
+      "value": "https://sparkprofiler.github.io/#z31Kx9emcQ"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+
+#Wyrmroost Dragon Options
+[dragons]
+	#How far dragons can travel from their home points
+	#Range: 6 ~ 1024
+	homeRadius = 16
+	#Chances for a Dragon Fruit Drake to spawn as a baby. 0 = No Chance, 1 = (practically) Guaranteed. Higher values are better chances
+	#Range: 0.0 ~ 1.0
+	dfdBabyChance = 0.3
+	#Base Flammability for Dragon Fire Breath. A value of 0 will disable fire block damage completely.
+	#Range: 0.0 ~ 1.0
+	breathFlammability = 0.8
+
+	[dragons.griefing]
+		#If True, Dragons will respect the Minecraft MobGriefing Gamerule. Else, follow "dragonGriefing" option
+		respectMobGriefing = true
+		#If true and not respecting MobGriefing rules, allow dragons to grief
+		dragonGriefing = true
+

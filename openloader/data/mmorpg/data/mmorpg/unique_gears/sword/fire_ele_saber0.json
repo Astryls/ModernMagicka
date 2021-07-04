@@ -1,0 +1,24 @@
+{
+  "id": "fire_ele_saber0",
+  "weight": 250,
+  "rarity": 3,
+  "tier": 3,
+  "registry": "unique_gear",
+  "lang_file_string": "item.mmorpg.uniques.sword.fire_ele_saber0",
+  "lang_file_desc_string": "item.mmorpg.uniques.sword.fire_ele_saber0.desc",
+  "primary_stats": [
+    "high_attack_fire_damage_flat"
+  ],
+  "unique_stats": [
+    "high_critical_hit_flat",
+    "lifesteal_flat",
+    "high_fire_spell_to_attack_dmg_percent"
+  ],
+  "can_get_set": false,
+  "requirements": {
+    "stamina": 0.25,
+    "intelligence": 0.75
+  },
+  "gear_type": "sword",
+  "item_id": "mmorpg:uniques/sword/fire_ele_saber0"
+}

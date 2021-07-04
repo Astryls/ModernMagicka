@@ -1,0 +1,23 @@
+{
+  "id": "goldrim",
+  "weight": 250,
+  "rarity": 3,
+  "tier": 1,
+  "registry": "unique_gear",
+  "lang_file_string": "item.mmorpg.uniques.helmet.goldrim",
+  "lang_file_desc_string": "item.mmorpg.uniques.helmet.goldrim.desc",
+  "primary_stats": [
+    "dodge_flat",
+	"very_low_health_flat"
+  ],
+  "unique_stats": [
+    "low_bonus_all_drops_flat",
+    "elemental_resist_flat"
+  ],
+  "can_get_set": false,
+  "requirements": {
+    "dexterity": 1.0
+  },
+  "gear_type": "leather_helmet",
+  "item_id": "cte_uniques:leather_unique_2_helmet"
+}
